@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/monika/Desktop/monika office/projects/ICICIBooking/WebContent/WEB-INF/lib/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/monika/Desktop/monika office/projects/ICICIBooking/WebContent/WEB-INF/lib/commons-logging-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/monika/Desktop/monika office/projects/ICICIBooking/WebContent/WEB-INF/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/monika/Desktop/monika office/projects/ICICIBooking/WebContent/WEB-INF/lib/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/monika/Desktop/monika office/projects/ICICIBooking/WebContent/WEB-INF/lib/gson-2.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/monika/Desktop/monika office/projects/ICICIBooking/WebContent/WEB-INF/lib/guava-19.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/monika/Desktop/monika office/projects/ICICIBooking/WebContent/WEB-INF/lib/htmlunit-2.21.jar"/>
+	<classpathentry kind="lib" path="C:/Users/monika/Desktop/monika office/projects/ICICIBooking/WebContent/WEB-INF/lib/htmlunit-core-js-2.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/monika/Desktop/monika office/projects/ICICIBooking/WebContent/WEB-INF/lib/htmlunit-driver-2.21.jar"/>
+	<classpathentry kind="lib" path="C:/Users/monika/Desktop/monika office/projects/ICICIBooking/WebContent/WEB-INF/lib/httpclient-4.5.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/monika/Desktop/monika office/projects/ICICIBooking/WebContent/WEB-INF/lib/httpcore-4.4.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/monika/Desktop/monika office/projects/ICICIBooking/WebContent/WEB-INF/lib/httpmime-4.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/monika/Desktop/monika office/projects/ICICIBooking/WebContent/WEB-INF/lib/jackson-all-1.9.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/monika/Desktop/monika office/projects/ICICIBooking/WebContent/WEB-INF/lib/jackson-annotations-2.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/monika/Desktop/monika office/projects/ICICIBooking/WebContent/WEB-INF/lib/jersey-bundle-1.19.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/monika/Desktop/monika office/projects/ICICIBooking/WebContent/WEB-INF/lib/jersey-core-1.9.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/monika/Desktop/monika office/projects/ICICIBooking/WebContent/WEB-INF/lib/jersey-server.jar"/>
+	<classpathentry kind="lib" path="C:/Users/monika/Desktop/monika office/projects/ICICIBooking/WebContent/WEB-INF/lib/jetty-io-9.2.15.v20160210.jar"/>
+	<classpathentry kind="lib" path="C:/Users/monika/Desktop/monika office/projects/ICICIBooking/WebContent/WEB-INF/lib/jetty-util-9.2.15.v20160210.jar"/>
+	<classpathentry kind="lib" path="C:/Users/monika/Desktop/monika office/projects/ICICIBooking/WebContent/WEB-INF/lib/junit-3.8.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/monika/Desktop/monika office/projects/ICICIBooking/WebContent/WEB-INF/lib/log4j-1.2.13.jar"/>
+	<classpathentry kind="lib" path="C:/Users/monika/Desktop/monika office/projects/ICICIBooking/WebContent/WEB-INF/lib/poi-3.8-20120326.jar"/>
+	<classpathentry kind="lib" path="C:/Users/monika/Desktop/monika office/projects/ICICIBooking/WebContent/WEB-INF/lib/poi-examples-3.8-20120326.jar"/>
+	<classpathentry kind="lib" path="C:/Users/monika/Desktop/monika office/projects/ICICIBooking/WebContent/WEB-INF/lib/poi-excelant-3.8-20120326.jar"/>
+	<classpathentry kind="lib" path="C:/Users/monika/Desktop/monika office/projects/ICICIBooking/WebContent/WEB-INF/lib/poi-ooxml-3.8-20120326.jar"/>
+	<classpathentry kind="lib" path="C:/Users/monika/Desktop/monika office/projects/ICICIBooking/WebContent/WEB-INF/lib/poi-ooxml-schemas-3.8-20120326.jar"/>
+	<classpathentry kind="lib" path="C:/Users/monika/Desktop/monika office/projects/ICICIBooking/WebContent/WEB-INF/lib/poi-scratchpad-3.8-20120326.jar"/>
+	<classpathentry kind="lib" path="C:/Users/monika/Desktop/monika office/projects/ICICIBooking/WebContent/WEB-INF/lib/postgresql-42.1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/monika/Desktop/monika office/projects/ICICIBooking/WebContent/WEB-INF/lib/postgresql-42.1.4.jre6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/monika/Desktop/monika office/projects/ICICIBooking/WebContent/WEB-INF/lib/postgresql-42.1.4.jre7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/monika/Desktop/monika office/projects/ICICIBooking/WebContent/WEB-INF/lib/serializer-2.7.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/monika/Desktop/monika office/projects/ICICIBooking/WebContent/WEB-INF/lib/stax-api-1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/monika/Desktop/monika office/projects/ICICIBooking/WebContent/WEB-INF/lib/websocket-api-9.2.15.v20160210.jar"/>
+	<classpathentry kind="lib" path="C:/Users/monika/Desktop/monika office/projects/ICICIBooking/WebContent/WEB-INF/lib/websocket-client-9.2.15.v20160210.jar"/>
+	<classpathentry kind="lib" path="C:/Users/monika/Desktop/monika office/projects/ICICIBooking/WebContent/WEB-INF/lib/websocket-common-9.2.15.v20160210.jar"/>
+	<classpathentry kind="lib" path="C:/Users/monika/Desktop/monika office/projects/ICICIBooking/WebContent/WEB-INF/lib/xalan-2.7.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/monika/Desktop/monika office/projects/ICICIBooking/WebContent/WEB-INF/lib/xercesImpl-2.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/monika/Desktop/monika office/projects/ICICIBooking/WebContent/WEB-INF/lib/xml-apis-1.4.01.jar"/>
+	<classpathentry kind="lib" path="C:/Users/monika/Desktop/monika office/projects/ICICIBooking/WebContent/WEB-INF/lib/xmlbeans-2.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/monika/Desktop/monika office/projects/mailactivation/activation.jar"/>
+	<classpathentry kind="lib" path="C:/Users/monika/Desktop/monika office/projects/mailactivation/mail.jar"/>
+	<classpathentry kind="lib" path="C:/Users/monika/Desktop/monika office/projects/All JARS/com.fasterxml.jackson.annotations.jar"/>
+	<classpathentry kind="lib" path="C:/Users/monika/Desktop/monika office/projects/All JARS/com.fasterxml.jackson.core.jar"/>
+	<classpathentry kind="lib" path="C:/Users/monika/Desktop/monika office/projects/All JARS/com.fasterxml.jackson.databind.jar"/>
+	<classpathentry kind="lib" path="C:/Users/monika/Desktop/monika office/projects/mailactivation/testng-6.0.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
